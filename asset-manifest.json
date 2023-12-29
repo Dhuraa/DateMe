@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dhuraa.github.io/DateMe,/static/css/main.ac7653a1.css",
+    "main.js": "/Dhuraa.github.io/DateMe,/static/js/main.bf14b0f3.js",
+    "index.html": "/Dhuraa.github.io/DateMe,/index.html",
+    "main.ac7653a1.css.map": "/Dhuraa.github.io/DateMe,/static/css/main.ac7653a1.css.map",
+    "main.bf14b0f3.js.map": "/Dhuraa.github.io/DateMe,/static/js/main.bf14b0f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7653a1.css",
+    "static/js/main.bf14b0f3.js"
+  ]
+}
