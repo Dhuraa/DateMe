@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dhuraa.github.io/DateMe,/static/css/main.ac7653a1.css",
-    "main.js": "/Dhuraa.github.io/DateMe,/static/js/main.bf14b0f3.js",
+    "main.js": "/Dhuraa.github.io/DateMe,/static/js/main.94a7364d.js",
     "index.html": "/Dhuraa.github.io/DateMe,/index.html",
     "main.ac7653a1.css.map": "/Dhuraa.github.io/DateMe,/static/css/main.ac7653a1.css.map",
-    "main.bf14b0f3.js.map": "/Dhuraa.github.io/DateMe,/static/js/main.bf14b0f3.js.map"
+    "main.94a7364d.js.map": "/Dhuraa.github.io/DateMe,/static/js/main.94a7364d.js.map"
   },
   "entrypoints": [
     "static/css/main.ac7653a1.css",
-    "static/js/main.bf14b0f3.js"
+    "static/js/main.94a7364d.js"
   ]
 }
