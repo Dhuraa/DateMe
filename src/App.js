@@ -2,7 +2,7 @@ import "./App.css";
 import React, { useState } from "react";
 
 function App() {
-  let [position, setPosition] = useState({ x: 0, y: 0 });
+  let [position, setPosition] = useState({ x: 800, y: 595 });
 
   let [showYes, setshowYes] = useState(true);
 
